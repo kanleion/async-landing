@@ -1,0 +1,23 @@
+{
+    "name": "async-landing",
+    "version": "1.0.0",
+    "description": "Lading aplicando las cosas que se aprendieron en el curso de async",
+    "main": "index.js",
+    "scripts": {
+        "deploy": "gh-pages -d src"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kanleion/async-landing.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/kanleion/async-landing/issues"
+    },
+    "homepage": "https://github.com/kanleion/async-landing#readme",
+    "devDependencies": {
+        "gh-pages": "^4.0.0"
+    }
+}
